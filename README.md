@@ -23,6 +23,10 @@ Inicializar MSW:
 ```bash
 npm start
 ```
+## Build de producción
+```bash
+npm run build
+```
 
 MSW se habilita solo en `development`.
 
