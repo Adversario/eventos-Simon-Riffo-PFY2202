@@ -5,13 +5,8 @@
 - npm
 
 ## Instalación
-1. Crear proyecto base:
-   ```bash
-   npx create-react-app eventos-Simón-Riffo-PFY2202
-   cd eventos-Simón-Riffo-PFY2202
-   ```
 
-2. Instalar dependencias:
+Instalar dependencias:
    ```bash
    npm install react-router-dom
    npm install @apollo/client graphql
@@ -19,7 +14,7 @@
    npm install -D tailwindcss postcss autoprefixer
    ```
 
-3. Inicializar MSW:
+Inicializar MSW:
    ```bash
    npx msw init ./public
    ```
