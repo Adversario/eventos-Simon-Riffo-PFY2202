@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/css/main.d2544c39.css",
+    "main.js": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/main.ac93f80b.js",
+    "static/js/209.94cde806.chunk.js": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/209.94cde806.chunk.js",
+    "static/js/200.96737160.chunk.js": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/200.96737160.chunk.js",
+    "static/js/352.60496f8a.chunk.js": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/352.60496f8a.chunk.js",
+    "index.html": "/eventos-Sim%C3%B3n-Riffo-PFY2202/index.html",
+    "main.d2544c39.css.map": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/css/main.d2544c39.css.map",
+    "main.ac93f80b.js.map": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/main.ac93f80b.js.map",
+    "209.94cde806.chunk.js.map": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/209.94cde806.chunk.js.map",
+    "200.96737160.chunk.js.map": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/200.96737160.chunk.js.map",
+    "352.60496f8a.chunk.js.map": "/eventos-Sim%C3%B3n-Riffo-PFY2202/static/js/352.60496f8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2544c39.css",
+    "static/js/main.ac93f80b.js"
+  ]
+}
