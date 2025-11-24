@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eventos-Simon-Riffo-PFY2202/static/css/main.d2544c39.css",
+    "main.js": "/eventos-Simon-Riffo-PFY2202/static/js/main.4c436239.js",
+    "static/js/209.94cde806.chunk.js": "/eventos-Simon-Riffo-PFY2202/static/js/209.94cde806.chunk.js",
+    "static/js/200.96737160.chunk.js": "/eventos-Simon-Riffo-PFY2202/static/js/200.96737160.chunk.js",
+    "static/js/352.da82a5b0.chunk.js": "/eventos-Simon-Riffo-PFY2202/static/js/352.da82a5b0.chunk.js",
+    "index.html": "/eventos-Simon-Riffo-PFY2202/index.html",
+    "main.d2544c39.css.map": "/eventos-Simon-Riffo-PFY2202/static/css/main.d2544c39.css.map",
+    "main.4c436239.js.map": "/eventos-Simon-Riffo-PFY2202/static/js/main.4c436239.js.map",
+    "209.94cde806.chunk.js.map": "/eventos-Simon-Riffo-PFY2202/static/js/209.94cde806.chunk.js.map",
+    "200.96737160.chunk.js.map": "/eventos-Simon-Riffo-PFY2202/static/js/200.96737160.chunk.js.map",
+    "352.da82a5b0.chunk.js.map": "/eventos-Simon-Riffo-PFY2202/static/js/352.da82a5b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2544c39.css",
+    "static/js/main.4c436239.js"
+  ]
+}

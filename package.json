@@ -2,7 +2,7 @@
   "name": "eventos-simon-riffo-pfy2202",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adversario.github.io/eventos-Simón-Riffo-PFY2202",
+  "homepage": "https://adversario.github.io/eventos-Simon-Riffo-PFY2202",
   "dependencies": {
     "@apollo/client": "^3.14.0",
     "graphql": "^16.12.0",
